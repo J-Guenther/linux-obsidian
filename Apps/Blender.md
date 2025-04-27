@@ -1,0 +1,1 @@
+- Von offizieller Seite runterladen und die TAR entpacken, siehe [[Apps installieren]]
