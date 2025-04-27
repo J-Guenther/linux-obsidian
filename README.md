@@ -8,4 +8,5 @@ Open in Obsidian for proper displaying of Markdowns
 - Then update your System, e.g. follow steps on Mint Update-Manager
 - Then GPU: [[AMD GPU Driver]]
 - Then install App: [[Apps installieren]]
+- If you wanna Game: [[Linux Gaming]]
 - If you wanna watch Netflix and co in Firefox, see: [[Firefox]]
