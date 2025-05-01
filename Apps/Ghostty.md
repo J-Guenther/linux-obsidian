@@ -1,0 +1,1 @@
+Ghostty config file is in this repo under /files
